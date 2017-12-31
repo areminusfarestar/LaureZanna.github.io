@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Laure Zanna, U. of Oxford</title>
+    <link>https://LaureZanna.github.io/project/</link>
+    <description>Recent content in Projects on Laure Zanna, U. of Oxford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Laure Zanna</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Climate Change</title>
+      <link>https://LaureZanna.github.io/project/climtechange/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/project/climtechange/</guid>
+      <description>&lt;p&gt;The oceans are a major sink of heat and carbon, able to delay climate
+change. The role of ocean heat uptake remains central in quantifying
+both the magnitude and timescale of the local and global climate
+response to forcing. One main focus of our work is on the mechanisms
+of heat and carbon storage and transport, and on the quantification of
+their feedbacks onto the atmosphere and global climate. One goal is to
+understand the role of air-sea fluxes and of the large-scale ocean
+circulation in setting the ocean and atmospheric CO2 levels (The
+figure shows timeseries of partial pressure of CO2 in the atmosphere,
+North Altantic Ocean and Southern Ocean in response to wind forcing
+from a numerical simulation).&lt;/p&gt;
+
+&lt;p&gt;Current and Past Funding on this topic:&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; NERC, UK FAFMIP: &lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FR000727%2F1&#34; target=&#34;_blank&#34;&gt;http://gtr.rcuk.ac.uk/projects?ref=NE%2FR000727%2F1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; NERC, TICTOC: &lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FP019218%2F1&#34; target=&#34;_blank&#34;&gt;http://gtr.rcuk.ac.uk/projects?ref=NE%2FP019218%2F1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://LaureZanna.github.io/project/machinelearning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/project/machinelearning/</guid>
+      <description>&lt;p&gt;Big data is ubiquitious in many areas - we have recently used a range
+of machine learning algorihtms to tackle several problems in climates
+such as forecasting using neural networks, parametrization using
+super-resolution imaging. Stay tuned for more project and details
+soon&amp;hellip; or be in touch if you are interested in collaborating with us.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictability</title>
+      <link>https://LaureZanna.github.io/project/predictability/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/project/predictability/</guid>
+      <description>&lt;p&gt;Climate projections are subject to three sources of uncertainties:
+initial condition, model and scenario. Our research is concerned with
+the first two kinds of errors. Specifically, how do the lack of ocean
+observations, the chaotic nature of the climate system and the poor
+representation of subgrid turbulent processes impact predictions on
+intra-seasonal to centennial timescales. Being able to quantify the
+predictability limits of the ocean is crucial for providing reliable
+climate predictions. We use theory, observations and numerical
+simulations to assess the uncertainties associated the ocean dynamics.&lt;/p&gt;
+
+&lt;p&gt;Current and past funding on this topic:&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; NERC, Representing uncertainties:  &lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FJ00586X%2F1&#34; target=&#34;_blank&#34;&gt;http://gtr.rcuk.ac.uk/projects?ref=NE%2FJ00586X%2F1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turbulence</title>
+      <link>https://LaureZanna.github.io/project/turbulence/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/project/turbulence/</guid>
+      <description>&lt;p&gt;Ocean mesoscale eddies strongly affect the strength and variability of
+ocean jets such as the Gulf Stream. The spatial scales of eddies are
+too small to be resolved in climate models and hence their effects on
+the large-scale circulation need to be parametrized. The most common
+parametrizations used in coarse-resolution models are not adequate for
+the current generation of models, in which eddies are partially
+resolved. Furthermore, eddies are turbulent and stochastic in nature
+however current bulk parametrizations of mesoscale eddies are
+deterministic and do not account for subgrid transport fluctuations or
+upscale turbulent cascades therefore leading to model error in the
+representation of present and future climate change. The group is
+developing new parametrizations which specifically account for such
+effects and for model error associated with the uncertainty in the
+parametrizations. The parametrizations are constructed by using first
+principles, statistical mechanics, and high-resolution model outputs.&lt;/p&gt;
+
+&lt;p&gt;Current and Past Funding on this topic:&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; NERC, Modelling the ocean with random number: &lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FK013548%2F1&#34; target=&#34;_blank&#34;&gt;http://gtr.rcuk.ac.uk/projects?ref=NE%2FK013548%2F1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variability</title>
+      <link>https://LaureZanna.github.io/project/variability/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/project/variability/</guid>
+      <description>&lt;p&gt;In addition to its role played in heat and carbon uptake, the
+large-scale ocean circulation in the Atlantic is an important driver
+of European climate variability on interannual and decadal
+timescales. Yet, the importance of its influence remains unclear due
+in part to the short historical record and the poor representation of
+this variability in climate simulations. To explore the large
+discrepancies between coupled general circulation models (GCMs) in
+their representation of the meridional overturning circulation (MOC)
+decadal variability and predictions in the Atlantic sector, we have
+introduced new diagnostic and numerical tools.&lt;/p&gt;
+
+&lt;p&gt;Current and Past funding on this topic:&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; NERC, SummerTIME: &lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FM005887%2F1&#34; target=&#34;_blank&#34;&gt;http://gtr.rcuk.ac.uk/projects?ref=NE%2FM005887%2F1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; Royal Society, International Exchanges Scheme,  Quantifying the Variability of Tracer Transport across the Gulf Stream&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
