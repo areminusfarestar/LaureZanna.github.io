@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Laure Zanna</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -70,13 +70,17 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/anstey-zanna-2017/</guid>
-      <description></description>
+      <description>&lt;p&gt;We analyze in depth the dynamcal properties of a parametrization for ocean turbulence.
+The parametrization is based on the deformation of the fluid parcel.
+We show that the parametrization can help sharpen gradients, enhancing filamentation.
+Glabally, the parametrization conserves energy and dissipates enstrophy.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Example Talk</title>
       <link>https://LaureZanna.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
       <guid>https://LaureZanna.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
