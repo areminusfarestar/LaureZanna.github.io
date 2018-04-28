@@ -69,7 +69,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -78,7 +78,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -321,7 +321,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00-06:00</lastmod>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -330,7 +330,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00-06:00</lastmod>
+      <lastmod>2016-04-19T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -339,7 +339,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00-06:00</lastmod>
+      <lastmod>2016-04-18T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -348,7 +348,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00-06:00</lastmod>
+      <lastmod>2016-04-17T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -357,7 +357,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/post/faq/</loc>
-      <lastmod>2016-04-10T00:00:00-06:00</lastmod>
+      <lastmod>2016-04-10T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -393,7 +393,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-06:00</lastmod>
+      <lastmod>2014-03-10T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -551,7 +551,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00-06:00</lastmod>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -561,7 +561,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-06:00</lastmod>
+      <lastmod>2014-03-10T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -571,7 +571,7 @@
     <url>
     
       <loc>https://LaureZanna.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00-06:00</lastmod>
+      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -720,15 +720,6 @@
     
     <url>
     
-      <loc>https://LaureZanna.github.io/publication/bachmann-et-al-2017/</loc>
-      <lastmod>0000-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://LaureZanna.github.io/publication/david-et-al-2017b/</loc>
       <lastmod>0000-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -756,24 +747,6 @@
     
     <url>
     
-      <loc>https://LaureZanna.github.io/publication/clement-et-al-2018/</loc>
-      <lastmod>0000-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://LaureZanna.github.io/publication/tobesubmitted/zanna-et-al-2018/</loc>
-      <lastmod>0000-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://LaureZanna.github.io/publication/oreilly-et-al-2017b/</loc>
       <lastmod>0000-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -793,6 +766,15 @@
     <url>
     
       <loc>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</loc>
+      <lastmod>0000-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://LaureZanna.github.io/publication/tobesubmitted/zanna-et-al-2018/</loc>
       <lastmod>0000-01-01T00:00:00+00:00</lastmod>
     </url>
     
