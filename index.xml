@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Laure Zanna</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Remote and local influences in forecasting Pacific SST: a linear inverse model and a multimodel ensemble study</title>
+      <link>https://LaureZanna.github.io/publication/dias-et-al/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/dias-et-al/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eddy-mixing entropy and its maximization in forced-dissipative geostrophic turbulence</title>
@@ -20,7 +29,7 @@
     </item>
     
     <item>
-      <title>Historical Ocean Circulation Changes Shaped Mid-Latitudes Heat Content</title>
+      <title>Global reconstruction of historical ocean heat storage and transport</title>
       <link>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
@@ -80,7 +89,7 @@ Glabally, the parametrization conserves energy and dissipates enstrophy.&lt;/p&g
     <item>
       <title>Southern Ocean carbon-wind stress feedback</title>
       <link>https://LaureZanna.github.io/publication/bronselaer-et-al-2017/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/bronselaer-et-al-2017/</guid>
       <description></description>
@@ -142,15 +151,6 @@ The parametrization is based on the deformation of the fluid parcel.
 We show that the parametrization can help sharpen gradients, enhancing filamentation.
 Glabally, the parametrization conserves energy and dissipates enstrophy.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Drivers of uncertainty in simulated ocean circulation and heat uptake</title>
-      <link>https://LaureZanna.github.io/publication/huber-zanna-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/huber-zanna-2017/</guid>
-      <description></description>
     </item>
     
   </channel>
