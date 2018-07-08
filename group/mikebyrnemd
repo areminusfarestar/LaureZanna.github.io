@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Mike Byrne"
 
 # Project summary to display on homepage.
-summary = "Marie Curie Fellow (starting Oct)"
+summary = "Marie Curie Fellow"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
