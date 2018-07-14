@@ -11,20 +11,29 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Seasonal to annual ocean forecasting skill and the role of model and observational uncertainty</title>
-      <link>https://LaureZanna.github.io/publication/juricke-et-al-2018/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Global reconstruction of historical ocean heat storage and transport</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://LaureZanna.github.io/publication/juricke-et-al-2018/</guid>
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Remote and local influences in forecasting Pacific SST: a linear inverse model and a multimodel ensemble study</title>
-      <link>https://LaureZanna.github.io/publication/dias-et-al/</link>
+      <title>The signature of oceanic processes on extratropical decadal SST anomalies</title>
+      <link>https://LaureZanna.github.io/publication/oreilly-zanna-2018/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/oreilly-zanna-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal to annual ocean forecasting skill and the role of model and observational uncertainty</title>
+      <link>https://LaureZanna.github.io/publication/juricke-et-al-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://LaureZanna.github.io/publication/dias-et-al/</guid>
+      <guid>https://LaureZanna.github.io/publication/juricke-et-al-2018/</guid>
       <description></description>
     </item>
     
@@ -38,11 +47,20 @@
     </item>
     
     <item>
-      <title>Global reconstruction of historical ocean heat storage and transport</title>
-      <link>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</link>
+      <title>Future ocean climate change amplified and mitigated by circulation changes </title>
+      <link>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</guid>
+      <guid>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote and local influences in forecasting Pacific SST: a linear inverse model and a multimodel ensemble study</title>
+      <link>https://LaureZanna.github.io/publication/dias-et-al/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/dias-et-al/</guid>
       <description></description>
     </item>
     
@@ -52,24 +70,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/oreilly-et-al-2017b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The signature of oceanic processes on extratropical decadal SST anomalies</title>
-      <link>https://LaureZanna.github.io/publication/oreilly-zanna-2018/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/oreilly-zanna-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tracking heat with carbon</title>
-      <link>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</guid>
       <description></description>
     </item>
     
