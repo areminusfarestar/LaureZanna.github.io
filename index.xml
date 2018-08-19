@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Applications of Deep Learning to Ocean Data Inference and Sub-Grid Parameterisation</title>
+      <link>https://LaureZanna.github.io/publication/bolton-zanna-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/bolton-zanna-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Future ocean climate change amplified and mitigated by circulation changes </title>
       <link>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
@@ -92,6 +101,15 @@
     </item>
     
     <item>
+      <title>Emergence of an anthropogenic signal in the North Atlantic warming hole</title>
+      <link>https://LaureZanna.github.io/publication/chemke-et-al-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/chemke-et-al-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Southern Ocean carbon-wind stress feedback</title>
       <link>https://LaureZanna.github.io/publication/bronselaer-et-al-2017/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/juricke-et-al-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A note on Toward a stochastic parametrization of ocean mesoscale eddies</title>
-      <link>https://LaureZanna.github.io/publication/grooms-zanna-2017/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/grooms-zanna-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The statistical nature of turbulent barotropic ocean jets</title>
-      <link>https://LaureZanna.github.io/publication/david-et-al-2017/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/david-et-al-2017/</guid>
       <description></description>
     </item>
     
