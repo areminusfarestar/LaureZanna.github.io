@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Global reconstruction of historical ocean heat storage and transport</title>
+      <link>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Applications of Deep Learning to Ocean Data Inference and Sub-Grid Parameterisation</title>
       <link>https://LaureZanna.github.io/publication/bolton-zanna-2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -20,20 +29,11 @@
     </item>
     
     <item>
-      <title>Future ocean climate change amplified and mitigated by circulation changes </title>
+      <title>Future ocean climate change amplified and mitigated by circulation changes</title>
       <link>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global reconstruction of historical ocean heat storage and transport</title>
-      <link>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</link>
-      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</guid>
       <description></description>
     </item>
     
@@ -48,19 +48,19 @@
     
     <item>
       <title>Eddy-mixing entropy and its maximization in forced-dissipative geostrophic turbulence</title>
-      <link>https://LaureZanna.github.io/publication/david-et-al-2017b/</link>
+      <link>https://LaureZanna.github.io/publication/david-et-al-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://LaureZanna.github.io/publication/david-et-al-2017b/</guid>
+      <guid>https://LaureZanna.github.io/publication/david-et-al-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remote and local influences in forecasting Pacific SST: a linear inverse model and a multimodel ensemble study</title>
-      <link>https://LaureZanna.github.io/publication/dias-et-al/</link>
+      <link>https://LaureZanna.github.io/publication/dias-et-al-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://LaureZanna.github.io/publication/dias-et-al/</guid>
+      <guid>https://LaureZanna.github.io/publication/dias-et-al-2018/</guid>
       <description></description>
     </item>
     
@@ -75,10 +75,10 @@
     
     <item>
       <title>The impact of tropical precipitation on summertime Euro-Atlantic circulation via a circumglobal wave-train</title>
-      <link>https://LaureZanna.github.io/publication/oreilly-et-al-2017b/</link>
+      <link>https://LaureZanna.github.io/publication/oreilly-et-al-2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://LaureZanna.github.io/publication/oreilly-et-al-2017b/</guid>
+      <guid>https://LaureZanna.github.io/publication/oreilly-et-al-2018/</guid>
       <description></description>
     </item>
     
