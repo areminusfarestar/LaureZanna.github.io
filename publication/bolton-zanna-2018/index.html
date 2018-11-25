@@ -45,6 +45,8 @@
   
   <link rel="stylesheet" href="/styles.css">
   
+  <link rel="stylesheet" href="/css/mod-academic.css">
+  
 
   
 
@@ -64,7 +66,7 @@
   <meta property="og:site_name" content="Laure Zanna, U. of Oxford">
   <meta property="og:url" content="https://LaureZanna.github.io/publication/bolton-zanna-2018/">
   <meta property="og:title" content="Applications of Deep Learning to Ocean Data Inference and Sub-Grid Parameterisation | Laure Zanna, U. of Oxford">
-  <meta property="og:description" content=" ">
+  <meta property="og:description" content="">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-08-01T00:00:00&#43;00:00">
@@ -308,10 +310,9 @@
   <div class="article-container">
 
     
-
+    <img src="/img/SxPredictions_1.jpg" class="pub-banner" itemprop="image">
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text"></p>
+
     
 
     
@@ -339,7 +340,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">In Review, JAMES; Deposited on EarthArXiv, doi:10.31223/osf.io/t8uhk</div>
+          <div class="col-xs-12 col-sm-9">In Review, JAMES; Deposited on <a href="https://eartharxiv.org/t8uhk/" target="_blank">EarthArXiv</a>, doi:10.31223/osf.io/t8uhk</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -400,7 +401,29 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><p>Oceanographic observations are limited by sampling rates,
+while ocean models are limited by finite resolution and high viscosity
+and diffusion coefficients. Therefore both data from observations and
+ocean models lack information at small-scales. Methods are needed to
+either extract information, extrapolate, or up-scale existing
+oceanographic datasets, to account for the unresolved physical
+processes. Here we use machine learning to leverage observations and
+model data by predicting unresolved turbulent processes and
+sub-surface flow fields. As a proof-of-concept, we train convolutional
+neural networks on degraded-data from a high-resolution
+quasi-geostrophic ocean model. We demonstrate that convolutional
+neural networks successfully replicate the spatio-temporal variability
+of the sub-grid eddy momentum forcing, are capable of generalising to
+a range of dynamical behaviours, and can be forced to respect global
+momentum conservation. The training data of our convolutional neural
+networks can be sub-sampled to 10-20% of the original size without a
+significant increase in accuracy. We also show that the sub-surface
+flow field can be predicted using only information at the surface,
+mimicing when only satellite altimetry data is available. Our study
+indicates that data-driven approaches can be exploited while
+respecting physical principles, even when data is limited to a
+particular region or external forcing.</p>
+</div>
 
     
 

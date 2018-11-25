@@ -103,7 +103,30 @@ geostrophic turbulence&lt;/p&gt;&lt;/li&gt;
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</guid>
-      <description></description>
+      <description>&lt;p&gt;Most of the excess energy stored in the climate system due
+to anthropogenic greenhouse gas emissions has been taken up by the
+oceans, leading to thermal expansion and sea level rise.  The oceans
+thus have an important role in the Earth&amp;rsquo;s energy imbalance.
+Observational constraints on future anthropogenic warming critically
+depend on accurate estimates of past ocean heat content (OHC)
+change. We present a novel reconstruction of OHC since 1871, with
+global coverage of the full ocean depth. Our estimates combine
+timeseries of observed sea surface temperatures, with much longer
+historical coverage than those in the ocean interior, together with a
+representation (a Green&amp;rsquo;s function) of time-independent ocean
+transport processes.  For 1955-2017, our estimates are comparable to
+direct estimates made by infilling the available 3D time-dependent
+ocean temperature observations. We find that the global ocean absorbed
+heat during this period at a rate of 0.30 $\pm$ 0.06 W/m$^2$ in the
+upper 2000 m and 0.028 $\pm$ 0.026 W/m$^2$ below 2000 m, with large
+decadal fluctuations. The total OHC change since 1871 is estimated at
+436 $\pm$91 $\times$ 10$^{21}$ J, with an increase during 1921-1946
+(145 $\pm$ 62$\times$ 10$^{21}$ J) that is as large as during
+1990-2015. By comparing with direct estimates, we also infer that,
+during 1955-2017, up to half of the Atlantic Ocean warming and
+thermosteric sea level rise at low-to-mid latitudes emerged due to
+heat convergence from changes in ocean transport.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -175,7 +198,29 @@ geostrophic turbulence&lt;/p&gt;&lt;/li&gt;
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/bolton-zanna-2018/</guid>
-      <description></description>
+      <description>&lt;p&gt;Oceanographic observations are limited by sampling rates,
+while ocean models are limited by finite resolution and high viscosity
+and diffusion coefficients. Therefore both data from observations and
+ocean models lack information at small-scales. Methods are needed to
+either extract information, extrapolate, or up-scale existing
+oceanographic datasets, to account for the unresolved physical
+processes. Here we use machine learning to leverage observations and
+model data by predicting unresolved turbulent processes and
+sub-surface flow fields. As a proof-of-concept, we train convolutional
+neural networks on degraded-data from a high-resolution
+quasi-geostrophic ocean model. We demonstrate that convolutional
+neural networks successfully replicate the spatio-temporal variability
+of the sub-grid eddy momentum forcing, are capable of generalising to
+a range of dynamical behaviours, and can be forced to respect global
+momentum conservation. The training data of our convolutional neural
+networks can be sub-sampled to 10-20% of the original size without a
+significant increase in accuracy. We also show that the sub-surface
+flow field can be predicted using only information at the surface,
+mimicing when only satellite altimetry data is available. Our study
+indicates that data-driven approaches can be exploited while
+respecting physical principles, even when data is limited to a
+particular region or external forcing.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -193,7 +238,24 @@ geostrophic turbulence&lt;/p&gt;&lt;/li&gt;
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/oreilly-zanna-2018/</guid>
-      <description></description>
+      <description>&lt;p&gt;The relationship between decadal sea surface temperature (SST) and
+turbulent heat fluxes is assessed and used to identify where oceanic
+processes play an important role in extratropical decadal SST
+variability. In observational data sets and coupled climate model
+simulations from the Coupled Model Intercomparison Project Phase 5
+archive, positive correlations between upward turbulent heat flux and
+SSTs indicate an active role of oceanic processes over regions in the
+North Atlantic, Northwest Pacific, Southern Pacific, and Southern
+Atlantic. The contrasting nature of oceanic influence on decadal SST
+anomalies in the Northwest Pacific and North Atlantic is
+identified. Over the Northwest Pacific, SST anomalies are consistent
+with changes in the horizontal wind-driven gyre circulation on
+timescales of between 3 and 7 years, in both the observations and
+models. Over the North Atlantic, SST anomalies are also preceded by
+atmospheric circulation anomalies, though the response is stronger at
+longer timescales—peaking at around 20 years in the observations and
+at around 10 years in the models.&lt;/p&gt;
+</description>
     </item>
     
     <item>
