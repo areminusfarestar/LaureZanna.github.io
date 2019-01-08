@@ -306,16 +306,19 @@ small,
 .hero-overlay .hero-title,
 .hero-overlay .hero-lead,
 .hero-overlay .btn {
-  color: #fff;
+  color: #000;
+/*  color: #fff;*/
   text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
 }
 
 .hero-overlay a {
-  color: #fff;
+/*  color: #fff;*/
+  color: #000;
 }
 
 .hero-overlay .hero-lead a {
-  color: #fff;
+/*  color: #fff;*/
+  color: #000;
   text-decoration-line: underline;
 }
 
@@ -477,7 +480,7 @@ article {
 }
 
 .article-banner {
-  width: 100%;
+  width: 30%;
   height: auto;
 }
 
@@ -603,7 +606,7 @@ article {
  *  Publications
  **************************************************/
 
-.pub-icon {
+/**.pub-icon {
   color: rgba(0, 0, 0, 0.54);
   font-size: 0.81em;
   padding-top: 6px;
@@ -614,7 +617,7 @@ article {
   height: auto;
   margin-left: auto;
   margin-right: auto;
-}
+}*/
 
 .pub .pub-title {
   margin-bottom: 5px;

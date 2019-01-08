@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Laure Zanna, U. of Oxford</title>
+    <title>Projects on Laure Zanna, Oxford</title>
     <link>https://LaureZanna.github.io/project/</link>
-    <description>Recent content in Projects on Laure Zanna, U. of Oxford</description>
+    <description>Recent content in Projects on Laure Zanna, Oxford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Laure Zanna</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Climate Variability</title>
+      <link>https://LaureZanna.github.io/project/variability/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/project/variability/</guid>
+      <description>&lt;p&gt;In addition to its role played in heat and carbon uptake, the
+large-scale ocean circulation in the Atlantic is an important driver
+of European climate variability on interannual and decadal
+timescales. Yet, the importance of its influence remains unclear due
+in part to the short historical record and the poor representation of
+this variability in climate simulations. To explore the large
+discrepancies between coupled general circulation models (GCMs) in
+their representation of the meridional overturning circulation (MOC)
+decadal variability and predictions in the Atlantic sector, we have
+introduced new diagnostic and numerical tools.&lt;/p&gt;
+
+&lt;p&gt;Current funding on this topic:&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; NERC, &lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FM005887%2F1&#34; target=&#34;_blank&#34;&gt;SummerTIME&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ndash; Royal Society, International Exchanges Scheme,  Quantifying the Variability of Tracer Transport across the Gulf Stream&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Machine Learning</title>
@@ -21,6 +46,16 @@ used a range of machine-learning algorithms to tackle problems
 in climate such as forecasting, data inference and parametrization. Stay tuned for more
 projects and details soon&amp;hellip; or be in touch if you are interested in
 collaborating with us.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ocean Ensembles</title>
+      <link>https://LaureZanna.github.io/project/ocean-ensembles/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/project/ocean-ensembles/</guid>
+      <description>&lt;p&gt;More info soon.&lt;/p&gt;
 </description>
     </item>
     
@@ -105,27 +140,23 @@ simulations to assess the uncertainties associated the ocean dynamics.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Variability</title>
-      <link>https://LaureZanna.github.io/project/variability/</link>
+      <title>TICTOC</title>
+      <link>https://LaureZanna.github.io/project/tictoc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://LaureZanna.github.io/project/variability/</guid>
-      <description>&lt;p&gt;In addition to its role played in heat and carbon uptake, the
-large-scale ocean circulation in the Atlantic is an important driver
-of European climate variability on interannual and decadal
-timescales. Yet, the importance of its influence remains unclear due
-in part to the short historical record and the poor representation of
-this variability in climate simulations. To explore the large
-discrepancies between coupled general circulation models (GCMs) in
-their representation of the meridional overturning circulation (MOC)
-decadal variability and predictions in the Atlantic sector, we have
-introduced new diagnostic and numerical tools.&lt;/p&gt;
-
-&lt;p&gt;Current funding on this topic:&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash; NERC, &lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FM005887%2F1&#34; target=&#34;_blank&#34;&gt;SummerTIME&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash; Royal Society, International Exchanges Scheme,  Quantifying the Variability of Tracer Transport across the Gulf Stream&lt;/p&gt;
+      <guid>https://LaureZanna.github.io/project/tictoc/</guid>
+      <description>&lt;p&gt;More info soon on NERC project &lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FP019218%2F1&#34; target=&#34;_blank&#34;&gt;TICTOC&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UKFAFMIP</title>
+      <link>https://LaureZanna.github.io/project/ukfafmip/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/project/ukfafmip/</guid>
+      <description>&lt;p&gt;More info soon on our NERC project UK
+&lt;a href=&#34;http://gtr.rcuk.ac.uk/projects?ref=NE%2FR000727%2F1&#34; target=&#34;_blank&#34;&gt;FAFMIP&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Laure Zanna, U. of Oxford</title>
+    <title>Publications on Laure Zanna, Oxford</title>
     <link>https://LaureZanna.github.io/publication/</link>
-    <description>Recent content in Publications on Laure Zanna, U. of Oxford</description>
+    <description>Recent content in Publications on Laure Zanna, Oxford</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Laure Zanna</copyright>
@@ -13,49 +13,96 @@
     <item>
       <title>Global reconstruction of historical ocean heat storage and transport</title>
       <link>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/zanna-et-al-2017b/</guid>
-      <description></description>
+      <description>&lt;p&gt;In this work, we attempt to 1) extend global estimates of ocean
+warming before 1950s; 2) infer how changes in ocean circulation can
+shape patterns of ocean warming and sea level.&lt;/p&gt;
+
+&lt;p&gt;We created a model based on a technique which on maps information
+between the surface of the ocean and its interior. The model is
+informed by a combination of observations and computer simulations.&lt;/p&gt;
+
+&lt;p&gt;Our findings suggests that 1) the ocean has gained energy equivalent
+to roughly 436 $\times$ 10$^{21}$ Joules from 1871 to present, and
+that 2) changes in ocean processes (currents + mixing) have occured in
+the past 60 yrs affecting regional sea level rise in the Atlantic
+Oceean.  While we have identified change in ocean tranport in the past
+60 years, we cannot directly attribute the changes to natural
+variability or externally-forced climate change.&lt;/p&gt;
+
+&lt;p&gt;Our method is obviously subject to uncertainty from different sources
+(described in detail in the manuscript). Our results are consistent
+with direct interior temperature measurements giving us some
+confidence in the method.&lt;/p&gt;
+
+&lt;p&gt;Much work remains to be done to understand observed and predicted
+patterns of warming and thermosteric sea level rise which our method
+can hopefully help address.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Applications of Deep Learning to Ocean Data Inference and Sub-Grid Parameterisation</title>
       <link>https://LaureZanna.github.io/publication/bolton-zanna-2018/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/bolton-zanna-2018/</guid>
-      <description>&lt;p&gt;Oceanographic observations are limited by sampling rates,
-while ocean models are limited by finite resolution and high viscosity
-and diffusion coefficients. Therefore both data from observations and
-ocean models lack information at small-scales. Methods are needed to
-either extract information, extrapolate, or up-scale existing
-oceanographic datasets, to account for the unresolved physical
-processes. Here we use machine learning to leverage observations and
-model data by predicting unresolved turbulent processes and
-sub-surface flow fields. As a proof-of-concept, we train convolutional
-neural networks on degraded-data from a high-resolution
-quasi-geostrophic ocean model. We demonstrate that convolutional
-neural networks successfully replicate the spatio-temporal variability
-of the sub-grid eddy momentum forcing, are capable of generalising to
-a range of dynamical behaviours, and can be forced to respect global
-momentum conservation. The training data of our convolutional neural
-networks can be sub-sampled to 10-20% of the original size without a
-significant increase in accuracy. We also show that the sub-surface
-flow field can be predicted using only information at the surface,
-mimicing when only satellite altimetry data is available. Our study
-indicates that data-driven approaches can be exploited while
-respecting physical principles, even when data is limited to a
-particular region or external forcing.&lt;/p&gt;
+      <description>&lt;p&gt;Oceanographic observations are limited by sampling rates, while ocean models are limited by finite resolution and high viscosity and diffusion coefficients. Therefore both data from observations and ocean models lack information at small- and fast-scales.
+Methods are needed to either extract information, extrapolate, or up-scale existing oceanographic datasets, to account for or represent unresolved physical processes.
+Here we use machine learning to leverage observations and model data by predicting unresolved turbulent processes and sub-surface flow fields.
+As a proof-of-concept, we train convolutional neural networks on degraded-data from a high-resolution quasi-geostrophic ocean model.
+We demonstrate that convolutional neural networks successfully replicate the spatio-temporal variability of the sub-grid eddy momentum forcing, are capable of generalising to a range of dynamical behaviours, and can be forced to respect global momentum conservation.
+The training data of our convolutional neural networks can be sub-sampled to 10-20\% of the original size without a significant decreasein accuracy.
+We also show that the sub-surface flow field can be predicted using only information at the surface (e.g., using only satellite altimetry data).
+Our study indicates that data-driven approaches can be exploited to predict both sub-grid and large-scale processes, while respecting physical principles, even when data is limited to a particular region or external forcing.
+Our in-depth study presents evidence for the successful design of ocean eddy parameterisations for implementation in coarse-resolution climate models.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Ocean Obs&#39; 2019: Towards comprehensive observing and modeling systems for monitoring and predicting regional to coastal sea level</title>
+      <link>https://LaureZanna.github.io/publication/ponte-et-al-2019/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/ponte-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate model uncertainty and trend detection of regional sea level projections in the open ocean and coastal zone</title>
+      <link>https://LaureZanna.github.io/publication/carson-et-al-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/carson-et-al-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of an anthropogenic signal in the North Atlantic warming hole</title>
+      <link>https://LaureZanna.github.io/publication/chemke-et-al-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/chemke-et-al-2018/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Future ocean climate change amplified and mitigated by circulation changes</title>
       <link>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</link>
-      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/bronselaer-zanna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictability of North Atlantic Sea Surface Height</title>
+      <link>https://LaureZanna.github.io/publication/fraser-et-al-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/publication/fraser-et-al-2019/</guid>
       <description></description>
     </item>
     
@@ -140,47 +187,11 @@ at around 10 years in the models.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Emergence of an anthropogenic signal in the North Atlantic warming hole</title>
-      <link>https://LaureZanna.github.io/publication/chemke-et-al-2018/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/chemke-et-al-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Southern Ocean carbon-wind stress feedback</title>
       <link>https://LaureZanna.github.io/publication/bronselaer-et-al-2017/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://LaureZanna.github.io/publication/bronselaer-et-al-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> The dynamical and thermodynamical influences of the Atlantic Multidecadal Oscillation on continental climate</title>
-      <link>https://LaureZanna.github.io/publication/oreilly-et-al-2017/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/oreilly-et-al-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of Horizontal Resolution on Energy Transfers in Global Ocean Models</title>
-      <link>https://LaureZanna.github.io/publication/kjellsson-zanna-2017/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/kjellsson-zanna-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stochastic perturbations to sub-grid scale ocean mixing: Impacts on low frequency variability</title>
-      <link>https://LaureZanna.github.io/publication/juricke-et-al-2017/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/publication/juricke-et-al-2017/</guid>
       <description></description>
     </item>
     
