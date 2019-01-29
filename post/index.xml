@@ -11,44 +11,77 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>PNAS paper on Ocean Heat Content and Transport </title>
-      <link>https://LaureZanna.github.io/post/jan_2_2019/</link>
-      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Paper on ocean dynamics &amp; machine learning</title>
+      <link>https://LaureZanna.github.io/post/jan_3_2019/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://LaureZanna.github.io/post/jan_2_2019/</guid>
-      <description>&lt;p&gt;Check our official press release on the &lt;a href=&#34;http://www.ox.ac.uk/news/2019-01-08-century-and-half-reconstructed-ocean-warming-offers-clues-future-0&#34; target=&#34;_blank&#34;&gt;Oxford website&lt;/a&gt; or at &lt;a href=&#34;https://phys.org/news/2019-01-century-reconstructed-ocean-clues-future.html&#34; target=&#34;_blank&#34;&gt;Phys.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Or read this shorter explanation of our results:&lt;/p&gt;
-
-&lt;p&gt;In this work, we attempt to 1) extend global estimates of ocean
-warming before 1950s; 2) infer how changes in ocean circulation can
-shape patterns of ocean warming and sea level.&lt;/p&gt;
-
-&lt;p&gt;We created a model based on a technique which maps information between
-the surface of the ocean and its interior. The model is informed by a
-combination of observations and computer simulations.&lt;/p&gt;
-
-&lt;p&gt;Our findings suggest that 1) the ocean has gained energy equivalent to
-roughly 436 $\times$ 10$^{21}$ Joules from 1871 to present, and that
-2) changes in ocean processes (currents + mixing) have occured in the
-past 60 yrs affecting regional sea level rise in the Atlantic Oceean.
-While we have identified changes in ocean tranport in the past 60
-years, we cannot directly attribute the changes to natural variability
-or externally-forced climate change.&lt;/p&gt;
-
-&lt;p&gt;Our method is obviously subject to uncertainty from many different
-sources (described in detail in the manuscript). However our results
-are consistent with direct interior temperature measurements giving us
-some confidence in the method.&lt;/p&gt;
-
-&lt;p&gt;Much work remains to be done to understand observed and predicted
-patterns of oceaen warming and thermosteric sea level rise, which our
-method can hopefully help address.&lt;/p&gt;
+      <guid>https://LaureZanna.github.io/post/jan_3_2019/</guid>
+      <description>&lt;p&gt;The paper is available on the &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001472&#34; target=&#34;_blank&#34;&gt;JAMES website&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>A New Team Member</title>
+      <title>Some links to media articles for our PNAS paper</title>
+      <link>https://LaureZanna.github.io/post/jan_2_2019/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/post/jan_2_2019/</guid>
+      <description>&lt;p&gt;You can find the paper and a summary in our publication list.&lt;/p&gt;
+
+&lt;p&gt;Our official press release can be found on the &lt;a href=&#34;http://www.ox.ac.uk/news/2019-01-08-century-and-half-reconstructed-ocean-warming-offers-clues-future-0&#34; target=&#34;_blank&#34;&gt;University of Oxford website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A few examples of articles in the media that mentioned our work:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/environment/2019/jan/07/global-warming-of-oceans-equivalent-to-an-atomic-bomb-per-second&#34; target=&#34;_blank&#34;&gt;The Guardian&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://weather.com/science/environment/news/2019-01-08-oceans-warming-15-atomic-bombs-per-second&#34; target=&#34;_blank&#34;&gt;The Weather Channel&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2019/01/10/climate/ocean-warming-climate-change.html&#34; target=&#34;_blank&#34;&gt;The New York Times&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://phys.org/news/2019-01-century-reconstructed-ocean-clues-future.html&#34; target=&#34;_blank&#34;&gt;Phys.org&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.sciencedaily.com/releases/2019/01/190107150746.htm&#34; target=&#34;_blank&#34;&gt;Science Daily&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.forbes.com/sites/priyashukla/2019/01/10/oceans-have-absorbed-1000-times-more-energy-than-what-the-global-human-population-uses-each-year/#2d552b7d58e7&#34; target=&#34;_blank&#34;&gt;Forbes&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://physicsworld.com/a/ocean-warming-speeds-vary-with-depth/&#34; target=&#34;_blank&#34;&gt;Physics World&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://physicstoday.scitation.org/do/10.1063/PT.6.1.20190115a/full/&#34; target=&#34;_blank&#34;&gt;Physics Today&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/environment/2019/01/oceans-warming-faster-than-ever/&#34; target=&#34;_blank&#34;&gt;National Geographic&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Talks</title>
+      <link>https://LaureZanna.github.io/post/upcomingtalks/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://LaureZanna.github.io/post/upcomingtalks/</guid>
+      <description>&lt;p&gt;Wadham Symposium, Disruption, Oxford, Feb 2&lt;/p&gt;
+
+&lt;p&gt;Physical Society Club, London IOP, Feb 6&lt;/p&gt;
+
+&lt;p&gt;Physics and Mathematics of Turbulent Flows at Different Scales, Les Houches, Feb 24&lt;/p&gt;
+
+&lt;p&gt;Southampton, NOC seminar, Feb 27&lt;/p&gt;
+
+&lt;p&gt;Sources and Sinks of Ocean Mesoscale Eddy Energy, Florida, March 12-14&lt;/p&gt;
+
+&lt;p&gt;UK FAFMIP, Reading, April 3-5&lt;/p&gt;
+
+&lt;p&gt;EGU, Sea level: Past, Present, Future, Vienna, April 7-12&lt;/p&gt;
+
+&lt;p&gt;Orchestra Meeting, July 3-4&lt;/p&gt;
+
+&lt;p&gt;Equadiff, July 8-12&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A New Team Member: Welcome to Emily Newsom </title>
       <link>https://LaureZanna.github.io/post/jan_2019/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -64,38 +97,6 @@ method can hopefully help address.&lt;/p&gt;
       
       <guid>https://LaureZanna.github.io/post/dec_2018/</guid>
       <description>&lt;p&gt;A little story on our work on ocean and climate, including our new ideas using machine learning, published on the &lt;a href=&#34;https://www.wadham.ox.ac.uk/news/2018/december/upgrading-climate-predictions-with-ai&#34; target=&#34;_blank&#34;&gt;Wadham website&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Upcoming Talks</title>
-      <link>https://LaureZanna.github.io/post/upcomingtalks/</link>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://LaureZanna.github.io/post/upcomingtalks/</guid>
-      <description>&lt;p&gt;Rotating Fluids, UCL, Jan 4 - Energizing turbulence closures in ocean models&lt;/p&gt;
-
-&lt;p&gt;BRIDGE seminar, Bristol, Jan 9 - Ocean Heat Content and Dynamic Sea Level&lt;/p&gt;
-
-&lt;p&gt;Colloqium, Reading, Jan 15 -&lt;/p&gt;
-
-&lt;p&gt;Brasenose Math Dinner, Jan 21 -&lt;/p&gt;
-
-&lt;p&gt;Physical Society Club, Feb 6&lt;/p&gt;
-
-&lt;p&gt;Physics and Mathematics of Turbulent Flows at Different Scales, Les Houches, Feb 24&lt;/p&gt;
-
-&lt;p&gt;Southampton, NOC seminar, Feb 27&lt;/p&gt;
-
-&lt;p&gt;Sources and Sinks of Ocean Mesoscale Eddy Energy, March 12-14&lt;/p&gt;
-
-&lt;p&gt;UK FAFMIP, April 3-5&lt;/p&gt;
-
-&lt;p&gt;EGU, Sea level: Past, Present, Future, April 7-12&lt;/p&gt;
-
-&lt;p&gt;Orchestra Meeting, July 3-4&lt;/p&gt;
-
-&lt;p&gt;Equadiff, July 8-12&lt;/p&gt;
 </description>
     </item>
     
