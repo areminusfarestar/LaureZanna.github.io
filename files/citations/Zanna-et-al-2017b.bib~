@@ -1,0 +1,88 @@
++++
+title = "Global reconstruction of historical ocean heat storage and transport"
+date = "2019-01-07"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Zanna L.", "S. Khatiwala", "J. Gregory", "**J. Ison**", "P. Heimbach"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "Proc. Natl. Acad. Sci., 116 (4) 1126-1131, 10.1073/pnas.1808838115 "
+publication_short = ""
+
+# Abstract and optional shortened version.
+#abstract = " "
+#abstract_short = " "
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+projects = ["climtechange/"]
+
+# Links (optional).
+url_pdf = "files/pdf/Zanna-et-al-2019.pdf"
+#url_code = "#"
+url_dataset = "https://www.dropbox.com/s/ldy2euejn0o7vr/Temp_Atlantic.nc?dl=0"
+#url_project = "#"
+url_slides = "files/pdf/AGU_2018_heat_final_Zanna.pdf"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "PDF Supp Material", url = "files/pdf/Zanna-et-al-SI-2019.pdf"},{name = "Press", url = "post/jan_2_2019/"}]
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`. [header]
+# image = "Fig1_timeseries_OHC.jpg"
+# caption = "My caption :smile:"
+
++++
+
+In this work, we attempt to 1) extend global estimates of ocean
+warming before 1950s; 2) infer how changes in ocean circulation can
+shape patterns of ocean warming and sea level.
+
+We created a model based on a technique which maps information between
+the surface of the ocean and its interior. The model is informed by a
+combination of observations and computer simulations.
+
+Our findings suggest that 1) the ocean has gained energy equivalent to
+roughly 436 $\times$ 10$^{21}$ Joules from 1871 to present, and that
+2) changes in ocean processes (currents + mixing) have occured in the
+past 60 yrs affecting regional sea level rise in the Atlantic Oceean.
+While we have identified changes in ocean tranport in the past 60
+years, we cannot directly attribute the changes to natural variability
+or externally-forced climate change.
+
+Our method is obviously subject to uncertainty from many different
+sources (described in detail in the manuscript). However our results
+are consistent with direct interior temperature measurements giving us
+some confidence in the method.
+
+Much work remains to be done to understand observed and predicted
+patterns of oceaen warming and thermosteric sea level rise, which our
+method can hopefully help address.
