@@ -7,13 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Laure Zanna</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Updated Datasets of ocean warming</title>
+      <link>https://LaureZanna.github.io/post/ohc_updated_data/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://LaureZanna.github.io/post/ohc_updated_data/</guid>
+      <description>&lt;p&gt;We are working on updating the datasets from our PNAS paper fairly regularly (thanks to many comments andd suggestions from others).&lt;/p&gt;
+
+&lt;p&gt;Most recent updates includes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;extending back to 1870 (rather than 1871),&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;adding 2018&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;using Sea Surface Temperatures from NOAA Extended Reconstruction SSTsV4 (in addition to HadISST v2 and v1)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The datasets with errors (defined as one-SD, derived from perturbing the Green&amp;rsquo;s Functions and from the use of different SSTs) are here:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/wa5u5bc5y5mym88/OHC_GF_1870_2018.nc?dl=0&#34; target=&#34;_blank&#34;&gt;Ocean Heat Content 1870-2018&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/4b1piqgjdekj1gc/ThSL_GF_1870_2018.nc?dl=0&#34; target=&#34;_blank&#34;&gt;Thermosteric Sea Level 1870-2018&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper on ocean dynamics &amp; machine learning</title>
       <link>https://LaureZanna.github.io/post/jan_3_2019/</link>
-      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://LaureZanna.github.io/post/jan_3_2019/</guid>
       <description>&lt;p&gt;The paper is available on the &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001472&#34; target=&#34;_blank&#34;&gt;JAMES website&lt;/a&gt;&lt;/p&gt;
@@ -23,7 +51,7 @@
     <item>
       <title>Some links to media articles for our PNAS paper</title>
       <link>https://LaureZanna.github.io/post/jan_2_2019/</link>
-      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://LaureZanna.github.io/post/jan_2_2019/</guid>
       <description>&lt;p&gt;You can find the paper and a summary in our publication list.&lt;/p&gt;
@@ -123,7 +151,7 @@ Our in-depth study presents evidence for the successful design of ocean eddy par
     <item>
       <title>Upcoming Talks</title>
       <link>https://LaureZanna.github.io/post/upcomingtalks/</link>
-      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://LaureZanna.github.io/post/upcomingtalks/</guid>
       <description>&lt;p&gt;Wadham Symposium, Disruption, Oxford, Feb 2&lt;/p&gt;
@@ -149,7 +177,7 @@ Our in-depth study presents evidence for the successful design of ocean eddy par
     <item>
       <title>A New Team Member: Welcome to Emily Newsom </title>
       <link>https://LaureZanna.github.io/post/jan_2019/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://LaureZanna.github.io/post/jan_2019/</guid>
       <description>&lt;p&gt;Emily is joining our group from Caltech as part of &lt;a href=&#34;http://projects.noc.ac.uk/tictoc/&#34; target=&#34;_blank&#34;&gt;TICTOC&lt;/a&gt;.&lt;/p&gt;
@@ -224,7 +252,7 @@ at around 10 years in the models.&lt;/p&gt;
     <item>
       <title>Upgrading Climate Predictions With AI</title>
       <link>https://LaureZanna.github.io/post/dec_2018/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://LaureZanna.github.io/post/dec_2018/</guid>
       <description>&lt;p&gt;A little story on our work on ocean and climate, including our new ideas using machine learning, published on the &lt;a href=&#34;https://www.wadham.ox.ac.uk/news/2018/december/upgrading-climate-predictions-with-ai&#34; target=&#34;_blank&#34;&gt;Wadham website&lt;/a&gt;&lt;/p&gt;
@@ -234,7 +262,7 @@ at around 10 years in the models.&lt;/p&gt;
     <item>
       <title>Ocean heat content 1871-2017</title>
       <link>https://LaureZanna.github.io/post/nov_2018/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://LaureZanna.github.io/post/nov_2018/</guid>
       <description>&lt;ul&gt;
@@ -242,22 +270,6 @@ at around 10 years in the models.&lt;/p&gt;
 present was accepted in PNAS. The paper was part of our exciting
 NERC Large Grant &lt;a href=&#34;http://projects.noc.ac.uk/tictoc/&#34; target=&#34;_blank&#34;&gt;TICTOC&lt;/a&gt;.  Stay
 tuned for more info.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Team Members</title>
-      <link>https://LaureZanna.github.io/post/oct_2018/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://LaureZanna.github.io/post/oct_2018/</guid>
-      <description>&lt;p&gt;Welcome of our newest team members:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Alex Todd will join as part of the project: Adressing the grand challenge of regional sea level prediction &lt;a href=&#34;http://www.fafmip.org/&#34; target=&#34;_blank&#34;&gt;UK FAFMIP&lt;/a&gt;&amp;rdquo;, co-led with Jonathan Gregory&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Mike Byrne will join us a Marie Curie Fellow working on monsoons dynamics under climate change.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
