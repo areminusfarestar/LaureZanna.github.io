@@ -63,15 +63,18 @@
 
   <meta property="twitter:card" content="summary_large_image">
   
+  <meta property="twitter:site" content="@https://twitter.com/laurezanna">
+  <meta property="twitter:creator" content="@https://twitter.com/laurezanna">
+  
   <meta property="og:site_name" content="Laure Zanna, Oxford">
   <meta property="og:url" content="https://LaureZanna.github.io/post/ohc_updated_data/">
   <meta property="og:title" content="Updated Datasets of ocean warming | Laure Zanna, Oxford">
   <meta property="og:description" content="">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-03-15T00:00:00-04:00">
+  <meta property="article:published_time" content="2019-03-15T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-03-15T00:00:00-04:00">
+  <meta property="article:modified_time" content="2019-03-15T00:00:00&#43;00:00">
   
 
   
@@ -266,7 +269,7 @@
 
   <span class="article-date">
     
-    <time datetime="2019-03-15 00:00:00 -0400 EDT" itemprop="datePublished">
+    <time datetime="2019-03-15 00:00:00 &#43;0000 GMT" itemprop="datePublished">
       Mar 15, 2019
     </time>
   </span>
@@ -326,25 +329,29 @@
 
 
       <div class="article-style" itemprop="articleBody">
-        <p>We are working on updating the datasets from our PNAS paper fairly regularly (thanks to many comments andd suggestions from others).</p>
+        <p>The original data from our PNAS paper can be dowloaded <a href="https://www.dropbox.com/s/wx3fj4w61b8yyud/OHC_GF_global.nc?dl=0" target="_blank">here</a></p>
 
-<p>Most recent updates includes:</p>
+<p>We are continuously working on updating the datasets fairly regularly (thanks to many comments and suggestions over the recent weeks). For the most recent update (March 15th, v0) which include:</p>
 
 <ul>
 <li><p>extending back to 1870 (rather than 1871),</p></li>
 
-<li><p>adding 2018</p></li>
+<li><p>adding year 2018</p></li>
 
-<li><p>using Sea Surface Temperatures from NOAA Extended Reconstruction SSTsV4 (in addition to HadISST v2 and v1)</p></li>
+<li><p>using Sea Surface Temperatures from NOAA Extended Reconstruction SSTsV4, COBE (in addition to HadISST v1 and realisations from HadISST v2)</p></li>
+
+<li><p>thermal expansion coefficients calculated using annual-mean climatology for 2005-2012 of WOA2013.</p></li>
 </ul>
 
-<p>The datasets with errors (defined as one-SD, derived from perturbing the Green&rsquo;s Functions and from the use of different SSTs) are here:</p>
+<p>The datasets for the upper 300 m, upper 700 m, upper 2000 m, below 2000 m, and full depth (with errors defined as one-SD and derived from perturbing the Green&rsquo;s Functions and from the use of different SSTs) are here:</p>
 
 <ul>
-<li><p><a href="https://www.dropbox.com/s/wa5u5bc5y5mym88/OHC_GF_1870_2018.nc?dl=0" target="_blank">Ocean Heat Content 1870-2018</a></p></li>
+<li><p><a href="https://www.dropbox.com/s/wa5u5bc5y5mym88/OHC_GF_1870_2018.nc?dl=0" target="_blank">Ocean Heat Content (v0) 1870-2018</a></p></li>
 
-<li><p><a href="https://www.dropbox.com/s/4b1piqgjdekj1gc/ThSL_GF_1870_2018.nc?dl=0" target="_blank">Thermosteric Sea Level 1870-2018</a></p></li>
+<li><p><a href="https://www.dropbox.com/s/4b1piqgjdekj1gc/ThSL_GF_1870_2018.nc?dl=0" target="_blank">Thermosteric Sea Level (v0) 1870-2018</a></p></li>
 </ul>
+
+<p>For further details regarding the method, please consult our <a href="https://laurezanna.github.io/files/pdf/Zanna-et-al-2019.pdf" target="_blank">manuscript</a> and <a href="https://laurezanna.github.io/files/pdf/Zanna-et-al-SI-2019.pdf" target="_blank">supplementary material</a>.</p>
 
       </div>
 
@@ -445,6 +452,13 @@
       <script>hljs.initHighlightingOnLoad();</script>
     
 
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
     
     
 
